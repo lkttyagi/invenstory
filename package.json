@@ -1,5 +1,5 @@
 {
-  "name": "invenstory",
+  "name": "invenstor",
   "version": "0.0.1",
   "description": "Invenstory provides Amazon sellers with a useful information dashboard.",
   "main": "server.js",
